@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
+I'm a software developer with more than 4 years of experience, specializing in full-stack development for 3 years and PeopleSoft development for 1.4 years. Passionate about building efficient and scalable solutions across various technologies.
+
 * 🌍  I'm based in Pune, Maharashtra
 * ✉️  You can contact me at [kajaldofe217@gmail.com](mailto:kajaldofe217@gmail.com)
 
